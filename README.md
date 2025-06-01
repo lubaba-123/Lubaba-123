@@ -1,4 +1,4 @@
-# 👋 Assalamu Alaikum, I'm Lubaba Tul Qubra
+# 👋 Hello, I'm Lubaba Tul Qubra
 
 🌸 Passionate Learner | 📚 Curious Explorer | 💻 Aspiring Developer
 
