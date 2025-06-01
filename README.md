@@ -35,7 +35,7 @@ Git • GitHub • VS Code • Canva • Google Docs
 
 ## 📊 Contribution Graph
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lubaba-123&theme=rose_pine)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lubaba-123&theme=rose_pine)
 
 
 ## 📫 Let’s Connect!
